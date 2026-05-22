@@ -44,4 +44,4 @@ Launch the notebook:
 
     jupyter notebook
 
-Open `pharma_sales_analysis.ipynb` and run all cells.
+Open `Pharmaceutical-sales-data-analysis.ipynb` and run all cells.
